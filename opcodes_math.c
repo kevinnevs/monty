@@ -99,7 +99,7 @@ void mulop(stack_t **stack, unsigned int nline)
 }
 
 /**
- * modop - multiplies the top two elements and stores it in second element
+ * modop - modulus the top two elements and stores it in second element
  * @stack: pointer to the head node pointer of stack
  * @nline: the line number
  * Return: Nothing.
